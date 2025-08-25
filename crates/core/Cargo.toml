@@ -1,0 +1,11 @@
+[package]
+name = "based-rollup-core"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+serde.workspace = true
+tokio.workspace = true
+anyhow.workspace = true
+tracing.workspace = true
